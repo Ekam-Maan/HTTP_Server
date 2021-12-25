@@ -1,0 +1,18 @@
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: username-localhost-8888="2|1:0|10:1634242081|23:username-localhost-8888|44:YTAzMzk5NGQ5NTg4NGNiMWIzMDI3MDdhYjU5NzE3NGY=|4d30c5c3ef6bda56acc6b152c9d5bdd72ab48d6166f42973a3da05f9f91cac1e"; _xsrf=2|2bc325b9|5a0b9bebc6bca833b655292f49325059|1634242081
+
